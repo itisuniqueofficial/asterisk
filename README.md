@@ -45,8 +45,13 @@ pip install pysocks
 ### Clone and run
 
 ```bash
-git clone https://github.com/yourname/asterisk.git
+git clone https://github.com/itisuniqueofficial/asterisk.git
 cd asterisk
+```
+
+### Attack
+
+```bash
 python3 asterisk.py example.com
 ```
 
